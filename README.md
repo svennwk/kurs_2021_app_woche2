@@ -4,6 +4,6 @@ Gemeinsame Kurs-App im Sose2021
 
 ## Aufgabe
 
-Einfügen einer persönlichen Seite in das Projekt einfügen.
+Einfügen einer persönlichen Seite in das Projekt.
 
 
